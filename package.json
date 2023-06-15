@@ -6,5 +6,8 @@
     "src/index.js"
   ],
   "author": "Leonard Grosoli <hileo77@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "suf-cli": "^0.5.1"
+  }
 }
