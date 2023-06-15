@@ -1,0 +1,10 @@
+{
+  "name": "@syler/action-test-package",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": [
+    "src/index.js"
+  ],
+  "author": "Leonard Grosoli <hileo77@gmail.com>",
+  "license": "MIT"
+}
